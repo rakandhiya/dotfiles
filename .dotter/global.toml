@@ -1,0 +1,11 @@
+[helix.files]
+"helix/config.toml" = "~/.config/helix/config.toml"
+
+[powershell.files]
+"Microsoft.PowerShell_profile.ps1" = "~/.config/powershell/Microsoft.Powershell_profile.ps1"
+
+[starship.files]
+"starship.toml" = "~/.config/starship.toml"
+
+[wezterm.files]
+"wezterm.lua" = "~/.config/wezterm/wezterm.lua"

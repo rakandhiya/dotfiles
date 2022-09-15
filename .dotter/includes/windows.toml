@@ -1,0 +1,5 @@
+[helix.files]
+"helix/config.toml" = "~/AppData/Roaming/helix/config.toml"
+
+[powershell.files]
+"Microsoft.PowerShell_profile.ps1" = "~/Documents/WindowsPowershell/Microsoft.PowerShell_profile.ps1"
